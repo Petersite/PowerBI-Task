@@ -1,4 +1,4 @@
-# PowerBI-Task 1& 2
+# PowerBI-Task 1
 
 # Task 1
 # INTRODUCTION TO PowerBi
