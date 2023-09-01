@@ -10,6 +10,8 @@ this is my 1st task on data analytics using PowerBi. Loading a 'Bank Term Deposi
 - Uploading a dataset to powerBi 
 - Connecting sql database to powerQuery
 - usage of powerBi to PowerQuery
+
+  # Tasks
   
 1. Import the ‘Bank Term Deposit Subscription’ dataset into your Power BI Desktop using the csv file option
 
